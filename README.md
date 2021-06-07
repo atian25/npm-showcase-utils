@@ -14,3 +14,12 @@ utils for npm-showcase
 ```bash
 npm i npm-showcase-utils --save
 ```
+
+## API
+
+### sayHi
+
+```js
+utils.sayHi() === 'hi, anonymous';
+utils.sayHi('tz') === 'hi, tz';
+```

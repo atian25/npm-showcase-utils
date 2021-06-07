@@ -1,3 +1,5 @@
 'use strict';
 
-module.exports = 'hi, developer';
+exports.sayHi = name => {
+  return `hi, ${name || 'anonymous'}`;
+};

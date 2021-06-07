@@ -2,8 +2,7 @@
   "name": "npm-showcase-utils",
   "version": "1.0.0",
   "description": "utils for npm-showcase",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "autod": "^3",
     "egg-bin": "^4",
@@ -27,13 +26,15 @@
     "version": "12, 14",
     "type": "github"
   },
-  "eslintIgnore": [ "coverage", "dist" ],
+  "eslintIgnore": [
+    "coverage",
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": ""
   },
   "files": [
-    "lib",
     "index.js"
   ],
   "author": "TZ <atian25@qq.com> (https://github.com/atian25)",
