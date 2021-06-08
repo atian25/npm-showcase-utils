@@ -1,4 +1,4 @@
-# npm-showcase-utils
+# @npm-showcase/utils
 
 utils for npm-showcase
 
